@@ -8,7 +8,7 @@
 
 Hemos preparado un paquete completo para que empieces a testear inmediatamente, sin instalaciones complejas ni configuraciones de código. Solo descarga, descomprime y ejecuta:
 
-🔥 [**👉 DESCARGAR VERSIÓN LISTA PARA USAR (MediaFire) 👈**](#bookmark=id.urbz4n22n71w) 🔥
+🔥 [**👉 DESCARGAR VERSIÓN LISTA PARA USAR (MediaFire) 👈**](https://www.mediafire.com/file/3uom9cdb4uqh2dd/Wdemo.rar/file) 🔥
 
 *(El paquete incluye el ejecutable y el entorno preconfigurado con Chromium portable para garantizar máxima compatibilidad).*
 
@@ -47,11 +47,11 @@ Nuestra herramienta está pensada para ser *Plug & Play*:
 4. **Escanea el QR (Solo una vez):** Al iniciar el bot, se abrirá WhatsApp Web. Escanea el código con tu teléfono. ¡Las futuras sesiones quedarán guardadas\!  
 5. **Monitorea:** Observa la consola en vivo mientras WhatsApp Life hace el trabajo pesado por ti.
 
-## **💼 Adquirir Licencia Completa**
+## **💼 Versiones Personalizadas**
 
-¿Te gustó la herramienta y quieres **eliminar los límites de envío**, adquirir soporte prioritario o comprar una versión de *Marca Blanca* para tu agencia?
+¿Quieres una versión personalizada enfocada únicamente a tus necesidades? Visita mi página web o contáctame para solicitar un cómodo presupuesto.
 
-Contáctanos directamente:
+Contáctanos directamente o visita nuestra página:
 
-* ✉️ **Email:** lycodelifework@gmail.com 
-
+* ✉️ **Email:** lycodelifework@gmail.com  
+* 🌐 **Sitio Web:** [LyCodeLife \- Soluciones Tecnológicas](https://lycodelife.github.io/LycodeLife/)
