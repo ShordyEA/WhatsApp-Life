@@ -53,5 +53,5 @@ Nuestra herramienta está pensada para ser *Plug & Play*:
 
 Contáctanos directamente:
 
-* ✉️ **Email:** contacto@lycodelife.com *(Reemplaza por tu info)*  
-* 💬 **WhatsApp:** \[+52 123 456 7890\] *(Reemplaza por tu info)*
+* ✉️ **Email:** lycodelifework@gmail.com 
+
